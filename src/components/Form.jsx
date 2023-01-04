@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './index.css'
 
 const Form = (props) => {
@@ -31,23 +31,3 @@ const Form = (props) => {
 }
 export default Form
 
-
-
-
-
-
-
-
-
-
-
-
-// const [btnPopup, setBtnPopup] = useState(false)
-// {/* <button className="addButton" onClick={handleSubmit} > SUBMIT </button> */ }
-// {/* // <button className="addButton" onClick={() => setBtnPopup(true)} > OPEN POPUP </button>
-//              // <PopUp trigger={btnPopup} setTrigger={setBtnPopup}>
-//             //     <h3>My PoPup value </h3>
-//             // </PopUp> */}
-
-
-// checked={users.gender === "Other"}
